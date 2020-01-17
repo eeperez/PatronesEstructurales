@@ -1,0 +1,9 @@
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Adaptador\obj\Debug\Adaptador.csprojAssemblyReference.cache
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Adaptador\bin\Debug\Adaptador.exe.config
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Adaptador\bin\Debug\Adaptador.exe
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Adaptador\bin\Debug\Adaptador.pdb
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Adaptador\obj\Debug\Adaptador.exe
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Adaptador\obj\Debug\Adaptador.pdb
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Adaptador\bin\Debug\Newtonsoft.Json.dll
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Adaptador\bin\Debug\Newtonsoft.Json.xml
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Adaptador\obj\Debug\Adaptador.csproj.CopyComplete

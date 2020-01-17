@@ -1,0 +1,6 @@
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Puente\bin\Debug\Puente.exe.config
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Puente\bin\Debug\Puente.exe
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Puente\bin\Debug\Puente.pdb
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Puente\obj\Debug\Puente.csprojAssemblyReference.cache
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Puente\obj\Debug\Puente.exe
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Puente\obj\Debug\Puente.pdb

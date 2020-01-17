@@ -1,0 +1,6 @@
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Decorador\bin\Debug\Decorador.exe.config
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Decorador\bin\Debug\Decorador.exe
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Decorador\bin\Debug\Decorador.pdb
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Decorador\obj\Debug\Decorador.csprojAssemblyReference.cache
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Decorador\obj\Debug\Decorador.exe
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Decorador\obj\Debug\Decorador.pdb

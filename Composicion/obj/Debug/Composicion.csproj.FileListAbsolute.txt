@@ -1,0 +1,6 @@
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Composicion\bin\Debug\Composicion.exe.config
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Composicion\bin\Debug\Composicion.exe
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Composicion\bin\Debug\Composicion.pdb
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Composicion\obj\Debug\Composicion.csprojAssemblyReference.cache
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Composicion\obj\Debug\Composicion.exe
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Composicion\obj\Debug\Composicion.pdb
