@@ -32,7 +32,7 @@ namespace Decorador
 			//Modificación 3
 			lstModificaciones.Add("\nModificación 3\n");
 			IAccionesCxP historialCxP3 = new HistorialCxP(guardadoCxP);
-			IAccionesCxP envioCorreoCxP3 = new EnvioCorreoCxP(historialCxP);
+			IAccionesCxP envioCorreoCxP3 = new EnvioCorreoCxP(historialCxP3);
 			lstModificaciones.Add(envioCorreoCxP3.EjecutarAccion(cxp));
 			//-------
 
