@@ -1,0 +1,6 @@
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Proxy\bin\Debug\Proxy.exe.config
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Proxy\bin\Debug\Proxy.exe
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Proxy\bin\Debug\Proxy.pdb
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Proxy\obj\Debug\Proxy.exe
+F:\CursoSOLID\PatronesEstructurales\PatronesEstructurales\Proxy\obj\Debug\Proxy.pdb
